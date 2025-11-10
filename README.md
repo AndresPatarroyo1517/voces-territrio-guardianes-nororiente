@@ -46,11 +46,11 @@ Se busca que los mismos miembros participen en:
 ---
 
 ## 🚀 Equipo de Desarrollo
-- **Dirección creativa:** [Tu nombre o equipo]  
-- **Programación:** [Integrante/s]  
-- **Arte y modelado 3D:** [Integrante/s]  
-- **Sonido y música:** [Integrante/s]  
-- **Colaboración comunitaria:** [Nombre de comunidad o representantes]  
+- **Dirección creativa:** 
+- **Programación:** 
+- **Arte y modelado 3D:** 
+- **Sonido y música:**  
+- **Colaboración comunitaria:** 
 
 ---
 
