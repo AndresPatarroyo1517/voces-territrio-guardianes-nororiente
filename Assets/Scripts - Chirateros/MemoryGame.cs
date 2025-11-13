@@ -31,7 +31,8 @@ public class Chitarreros : MonoBehaviour
     private bool gameActive = false;
 
     void Start()
-    
+    {
+
         Debug.Log("Script Chitarreros inicializado en " + gameObject.name);
     }
 
@@ -220,3 +221,4 @@ public class Chitarreros : MonoBehaviour
     }
 
 
+}
