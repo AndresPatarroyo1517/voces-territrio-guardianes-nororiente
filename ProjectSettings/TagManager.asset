@@ -9,6 +9,7 @@ TagManager:
   - Spear
   - Fish
   - TelaGuane
+  - EstatuaFin
   layers:
   - Default
   - TransparentFX
