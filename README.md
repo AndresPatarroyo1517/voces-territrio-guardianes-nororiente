@@ -54,9 +54,9 @@ El jugador podrá:
 5. Reconstruir la estatua del Guardián, representando la unión de los tres territorios.
 ---
 
-# 📱 Instrucciones para Instalar y Ejecutar el APK (Meta Quest 2)
+## 📱 Instrucciones para Instalar y Ejecutar el APK (Meta Quest 2)
 
-## 1️⃣ Descargar el APK desde itch.io
+### 1️⃣ Descargar el APK desde itch.io
 
 👉 **Descargar APK:**  
  ```bash
@@ -69,11 +69,12 @@ En la página encontrarás:
 - **Imagenes del juego en acción**.
 - **Información completa del proyecto**.
 
----
+ ---
 
-🤝 Enfoque Cultural
+ 🤝 Enfoque Cultural
 
 Este proyecto no representa literalmente a las comunidades indígenas, sino que se inspira en elementos históricos, ambientales y simbólicos asociados a los Yariguíes, Guanes y Chitareros.
 El objetivo es reconocer, visibilizar y rendir homenaje, evitando apropiaciones o representaciones directas.
---- 
+
+----
 > _“El territorio no solo se camina, también se escucha, se siente y se honra.”_ 🌎
